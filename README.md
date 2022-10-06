@@ -3,7 +3,7 @@
 ### Create CI/CD workflows for WPF and Windows Forms Applications built on .NET Core 3.x
 
 This repo contains a sample application to demonstrate how to create CI/CD pipelines using [GitHub Actions](https://github.com/features/actions "GitHub Actions page"). 
-
+ 
 With GitHub Actions, you can quickly and easily automate your software workflows with CI/CD.
 * Integrate code changes directly into GitHub to speed up development cycles
 * Trigger builds to quickly identify breaking changes and create testable debug builds
